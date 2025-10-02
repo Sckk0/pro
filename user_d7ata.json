@@ -1,0 +1,43 @@
+{
+    "6167419275": {
+        "templates": {},
+        "known_chats": {
+            "4863805428": "."
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "groups",
+            "templates": [
+                {
+                    "text": "مسح"
+                }
+            ],
+            "interval": 30,
+            "groups": [],
+            "last_msg_id": [
+                3286
+            ]
+        },
+        "scheduling": {
+            "active": true,
+            "step": "interval",
+            "templates": [
+                {
+                    "text": "",
+                    "media_path": "media/6167419275_1.jpg"
+                },
+                {
+                    "text": "وعليكم السلام"
+                },
+                {
+                    "text": "وعليكم السلام"
+                }
+            ],
+            "interval": null,
+            "count": null,
+            "last_msg_id": [
+                3328
+            ]
+        }
+    }
+}
